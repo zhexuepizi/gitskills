@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T04:00:35.778Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Ly0Mk2e996a5LUp0ge4H" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T04:54:17.343Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="daMUstdFXbrjUbL1YBg0" version="14.2.7" type="github">
   <diagram id="D-2z_8_pgRPWBL79dO9q" name="Page-1">
-    <mxGraphModel dx="1188" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="4eO-JoHs9PXRpzJO3EP--7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=none;sketch=0;" vertex="1" parent="4eO-JoHs9PXRpzJO3EP--6">
           <mxGeometry width="890" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="4eO-JoHs9PXRpzJO3EP--8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;strokeColor=#82b366;" vertex="1" parent="4eO-JoHs9PXRpzJO3EP--7">
+        <mxCell id="4eO-JoHs9PXRpzJO3EP--8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;大屏展示&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;strokeColor=#82b366;" vertex="1" parent="4eO-JoHs9PXRpzJO3EP--7">
           <mxGeometry width="99" height="105" as="geometry" />
         </mxCell>
         <mxCell id="4eO-JoHs9PXRpzJO3EP--9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4eO-JoHs9PXRpzJO3EP--7">
@@ -125,8 +125,8 @@
         <mxCell id="4eO-JoHs9PXRpzJO3EP--3" value="邛崃监狱摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="500" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4eO-JoHs9PXRpzJO3EP--72" value="视频流对接" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.23;notch=0;sketch=0;fillColor=#f8cecc;direction=north;strokeColor=#b85450;labelPosition=right;align=left;" vertex="1" parent="1">
-          <mxGeometry x="350" y="480" width="10" height="20" as="geometry" />
+        <mxCell id="4eO-JoHs9PXRpzJO3EP--72" value="告警结果对接" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.23;notch=0;sketch=0;fillColor=#f8cecc;direction=north;strokeColor=#b85450;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="568" y="260" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4eO-JoHs9PXRpzJO3EP--73" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="180" y="400" width="440" height="80" as="geometry" />
@@ -175,6 +175,18 @@
         </mxCell>
         <mxCell id="4eO-JoHs9PXRpzJO3EP--94" value="视频流对接" style="verticalLabelPosition=middle;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.62;dx=35.86;notch=0;sketch=0;fillColor=#f8cecc;direction=north;strokeColor=#b85450;horizontal=0;labelPosition=right;align=center;" vertex="1" parent="1">
           <mxGeometry x="734" y="370" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4eO-JoHs9PXRpzJO3EP--96" value="场景同步" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.23;notch=0;sketch=0;fillColor=#f8cecc;direction=south;strokeColor=#b85450;labelPosition=left;align=right;" vertex="1" parent="1">
+          <mxGeometry x="294" y="260" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4eO-JoHs9PXRpzJO3EP--98" value="视频流对接" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.23;notch=0;sketch=0;fillColor=#f8cecc;direction=north;strokeColor=#b85450;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="375" y="480" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4eO-JoHs9PXRpzJO3EP--99" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png;sketch=0;strokeWidth=2;fillColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4eO-JoHs9PXRpzJO3EP--100" value="" style="image;html=1;image=img/lib/clip_art/people/Pilot_Man_128x128.png;sketch=0;strokeWidth=2;fillColor=none;align=center;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="550" y="80" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
